@@ -29,7 +29,7 @@ int h = g ?? 0;
 Console.WriteLine(g);
 Console.WriteLine();
 
-Console.WriteLine("Atribuição por expresão\n");
+Console.WriteLine("Atribuição por expressão\n");
 int? x = 4;
 int? y = 3;
 int? z = x * y;
