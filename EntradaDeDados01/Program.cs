@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Entrada de dados\n");
+﻿//aula 31
+Console.WriteLine("Entrada de dados\n");
 
 Console.WriteLine("Informe seu nome\n");
 

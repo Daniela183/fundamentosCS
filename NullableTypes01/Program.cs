@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Nullable Types \n");
+﻿//aula 24
+Console.WriteLine("Nullable Types \n");
 
 //Não pode atribuir valor null para int
 //int valor = null;
@@ -29,7 +30,7 @@ int h = g ?? 0;
 Console.WriteLine(g);
 Console.WriteLine();
 
-Console.WriteLine("Atribuição por expressão\n");
+Console.WriteLine("Atribuição por expresão\n");
 int? x = 4;
 int? y = 3;
 int? z = x * y;

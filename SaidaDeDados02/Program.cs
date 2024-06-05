@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Saída de dados: Usando sequência de escapes \n");
+﻿//aula 28
+Console.WriteLine("Saída de dados: Usando sequência de escapes \n");
 
 //Para usar \ deve colocar outra para interpretar
 string local = "c:\\dados\\poesia.txt";

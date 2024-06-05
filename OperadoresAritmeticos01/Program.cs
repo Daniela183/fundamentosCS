@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Operadores Aritméticos\n");
+﻿//aula 32
+Console.WriteLine("Operadores Aritméticos\n");
 
 Console.WriteLine("Informe o valor de x");
 int x = Convert.ToInt32(Console.ReadLine());
